@@ -1,0 +1,72 @@
+[
+  {
+    "movie": "Spider-Man 3",
+    "rating": 4,
+    "review": "Amazing movie!",
+    "user": "Priya",
+    "timestamp": "2025-11-02 11:26:14"
+  },
+  {
+    "movie": "The Dark Knight Rises",
+    "rating": 2,
+    "review": "Nice movie, but could have been better",
+    "user": "Hussain",
+    "timestamp": "2025-11-02 11:32:06"
+  },
+  {
+    "movie": "Avatar",
+    "rating": 5,
+    "review": "Amazing Movie, cant wait for next part.",
+    "user": "Hussain",
+    "timestamp": "2025-11-02 11:33:35"
+  },
+  {
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "rating": 5,
+    "review": "Amazing Movie, cant wait for next part.",
+    "user": "Hussain",
+    "timestamp": "2025-11-02 11:34:15"
+  },
+  {
+    "movie": "Pirates of the Caribbean: At World's End",
+    "rating": 2,
+    "review": "Amazing Movie, cant wait for next part.",
+    "user": "Hussain",
+    "timestamp": "2025-11-02 11:34:32"
+  },
+  {
+    "movie": "Spectre",
+    "rating": 5,
+    "review": "Amazing movie .",
+    "user": "Pram",
+    "timestamp": "2025-11-03 06:10:22"
+  },
+  {
+    "movie": "The Dark Knight Rises",
+    "rating": 4,
+    "review": "Nice movie.",
+    "user": "Dimple",
+    "timestamp": "2025-11-03 06:48:52"
+  },
+  {
+    "movie": "John Carter",
+    "rating": 4,
+    "review": "Nice movie.",
+    "user": "Dimple",
+    "timestamp": "2025-11-03 06:49:24"
+  },
+  {
+    "movie": "Tangled",
+    "rating": 4,
+    "review": "Tangled is a visual masterpiece. I was smiling throughout, and the soundtrack is unforgettable. Highly recommend!",
+    "user": "Dimple",
+    "timestamp": "2025-11-03 06:52:36"
+  },
+  {
+    "movie": "Spectre",
+    "rating": 4,
+    "review": "Amazing..",
+    "user": "Priya",
+    "timestamp": "2025-11-12 16:44:35"
+  }
+]
